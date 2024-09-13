@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* this @tailwind is a directive (Directive simply means a special command or an instruction that tells the tool 
+what it needs to do.) 
+Here we are telling the CSS processor to incluse the tailwind base components and utility styles to our css.
+*/
